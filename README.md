@@ -4,4 +4,4 @@ I've decided to become a multimedia specialist.  In my new occupation, I will fo
 
 I've decided to make Python my first language.  I'm using Python because it tends to be forgiving of mistakes, unlike languages like C (which I know a little of)  Thank you Guido Von Rossum!!!!!  The other languages I will learn are PHP, Ruby, Javascript, SQL, HTML, and CSS.  Plus, I'm trying to find sources of information about web server administration and web hosting and I have a reseller account with Resellers Panel.  
 
-I don't want to be spoon fed, but if any of you can point me to sources of information, I will be obliged. In return, I license my code under the GNU GPL v3 license so you cna do whatever you want with it.  Happy hacking.  :-)
+I don't want to be spoon fed, but if any of you can point me to sources of information, I will be obliged. In return, I license my code under the GNU GPL v3 license so you can do whatever you want with it.  Happy hacking.  :-)
